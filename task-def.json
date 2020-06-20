@@ -4,7 +4,7 @@
     "containerDefinitions": [
         {
             "name": "fargate-app", 
-            "image": "httpd:2.4", 
+            "image": "541893147748.dkr.ecr.us-east-1.amazonaws.com/my-ecr-repo:latest", 
             "portMappings": [
                 {
                     "containerPort": 80, 
