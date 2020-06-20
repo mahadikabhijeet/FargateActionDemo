@@ -4,7 +4,7 @@
     "containerDefinitions": [
         {
             "name": "fargate-app", 
-            "image": "eadc013a6a93118056194eb420e60cc75c2af6d8:latest", 
+            "image": "541893147748.dkr.ecr.us-east-1.amazonaws.com/my-ecr-repo:eadc013a6a93118056194eb420e60cc75c2af6d8", 
             "portMappings": [
                 {
                     "containerPort": 80, 
