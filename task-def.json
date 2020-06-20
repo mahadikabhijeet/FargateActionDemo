@@ -4,7 +4,7 @@
     "containerDefinitions": [
         {
             "name": "fargate-app", 
-            "image": "httpd:latest", 
+            "image": "eadc013a6a93118056194eb420e60cc75c2af6d8:latest", 
             "portMappings": [
                 {
                     "containerPort": 80, 
